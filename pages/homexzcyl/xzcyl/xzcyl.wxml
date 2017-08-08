@@ -1,0 +1,7 @@
+<!--xzcyl.wxml-->
+<view class="homecontainer">
+  <text class="text-1">一分钟的时间里，你能找到多少个蔡依林呢？挑战一下自己吧！</text>
+  <view class="begin" bindtap="gotomain">
+    <text class="begin-text" >开始</text>
+  </view>
+</view>

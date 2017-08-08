@@ -1,0 +1,17 @@
+/* xzcyl.wxss */
+.homecontianer{
+  padding: 48rpx;
+}
+
+.text-1{
+  width: 100%;
+  text-align: center;
+}
+
+.begin {
+  margin-top: 100rpx;
+  align-content: center;
+}
+.begin .begin-text{
+  align-content: center;
+}
